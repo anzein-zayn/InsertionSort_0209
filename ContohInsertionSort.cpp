@@ -33,3 +33,6 @@ void input ()
 }
 
 void insertionSort()
+{
+
+    int temp; // Membuat variable data temporer atau penyimpanan sementara
