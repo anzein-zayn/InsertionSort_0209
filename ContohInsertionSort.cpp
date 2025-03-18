@@ -17,3 +17,10 @@ void input ()
         }
         else
     {
+        cout << "\nArray yang anda masukkan maksimal 20 Elemen.\n"; //Menampilkan Pesan jika lebih dari 20
+    }
+    }
+    cout << endl; // Membuat Jarak per baris program
+    cout << "======================" << endl;
+    cout << "Masukan Element Array" << endl;
+    cout << "======================" << endl;
