@@ -36,3 +36,4 @@ void insertionSort()
 {
 
     int temp; // Membuat variable data temporer atau penyimpanan sementara
+    int j, i; // Membuat variable j sebagai penanda
